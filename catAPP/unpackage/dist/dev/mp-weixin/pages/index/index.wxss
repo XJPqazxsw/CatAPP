@@ -1,0 +1,13 @@
+.container.data-v-57280228 {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+}
+.container .word .recordname.data-v-57280228 {
+  margin-right: 10px;
+  float: left;
+}
+.container .word .dele.data-v-57280228 {
+  font-size: 12px;
+  float: right;
+}

@@ -1,0 +1,45 @@
+.list.data-v-eb1fb978 {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.list .item.data-v-eb1fb978 {
+  width: 50%;
+  height: inherit;
+  padding: 4px;
+  box-sizing: border-box;
+}
+.list .item .itemcontent.data-v-eb1fb978 {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 6px;
+  box-sizing: border-box;
+}
+.list .item .itemcontent image.data-v-eb1fb978 {
+  width: 100%;
+  height: 250rpx;
+}
+.list .item .itemcontent .text1.data-v-eb1fb978 {
+  color: #8f99a7;
+  font-size: 13px;
+  margin-top: 5px;
+}
+.list .item .itemcontent .price.data-v-eb1fb978 {
+  font-size: 15px;
+  font-weight: 700;
+  font-family: '黑体';
+  color: black;
+  padding: 8px 0;
+}
+.list .item .itemcontent .name.data-v-eb1fb978 {
+  font-size: 14px;
+  text-overflow: -o-ellipsis-lastline;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
